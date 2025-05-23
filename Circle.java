@@ -1,7 +1,6 @@
 /*
 * Name: Zainab Olajide
 * Date : 5/5/2025
-* Assignment : Problem 3 Pt.2  - Homework 11
 */
 package homework11;
 
