@@ -1,7 +1,6 @@
 /*
 * Name: Zainab Olajide
 * Date : 4/28/2025
-* Assignment : Problem 3 - Homework 10
 * Description :  program that creates an array with 100 random integers, 
 * prompts for index and display corresponding element. throws exception if out of bounds
 */
