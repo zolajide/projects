@@ -1,7 +1,6 @@
 /*
 * Name: Zainab Olajide
 * Date : 5/5/2025
-* Assignment : Problem 3 Pt.1  - Homework 11
 */
 package homework11;
 import java.util.Date;
