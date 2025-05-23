@@ -1,7 +1,6 @@
 /*
 * Name: Zainab Olajide
 * Date : 5/5/2025
-* Assignment : Problem 2  - Homework 11
 * Description :  Displays the occurrence of each letter in a file and the three most frequent characters 
 */
 package homework11;
