@@ -1,7 +1,6 @@
 /*
 * Name: Zainab Olajide
 * Date : 4/28/2025
-* Assignment : Problem 2 - Homework 10
 * Description :  a method that returns the union of two ArrayList of
 integers
 */
